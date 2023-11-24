@@ -1,4 +1,4 @@
-# Activity diagram❤️
+# Activity diagram❤
 
 ### Contents:
 - [1. Launch](#1.-launch)
